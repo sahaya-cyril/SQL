@@ -191,3 +191,4 @@ where budget>=60000
 -- 2.21
 -- Delete from the table all employees.
 delete from employees;
+ 
